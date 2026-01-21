@@ -64,23 +64,13 @@ You do not need to have Python or `uv` installed on your machine to run this app
 
 If you prefer to run locally for development:
 
-1. **Install uv** (if not already installed):
-   ```bash
-   pip install uv
-   ```
-
-2. **Install dependencies:**
+1. **Install dependencies:**
    ```bash
    uv sync
    ```
 
-3. **Run the app:**
+2. **Run the app:**
    ```bash
    uv run shiny run --reload src/app.py
-   ```
-
-4. **Run Tests:**
-   ```bash
-   uv run pytest
    ```
 
