@@ -84,7 +84,3 @@ If you prefer to run locally for development:
    uv run pytest
    ```
 
-```bash
-docker build -t csv-summarizer .
-docker run -p 8000:8000 csv-summarizer
-```
