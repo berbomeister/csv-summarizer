@@ -43,8 +43,8 @@ You do not need to have Python or `uv` installed on your machine to run this app
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository_url>
-   cd csv_summarizer/src/summarize_app
+   git clone https://github.com/berbomeister/csv-summarizer
+   cd csv-summarizer/
    ```
 
 2. **Build the Docker image:**
