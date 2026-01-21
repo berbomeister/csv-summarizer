@@ -39,7 +39,6 @@ Provides an overview of the application and instructions on how to navigate the 
 
 ## Running with Docker (Recommended)
 
-You do not need to have Python or `uv` installed on your machine to run this app.
 
 1. **Clone the repository:**
    ```bash
