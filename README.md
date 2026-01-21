@@ -35,7 +35,7 @@ Provides an overview of the application and instructions on how to navigate the 
 
 - **Git** installed.
 - **Docker** installed (recommended for easiest setup).
-- *(Optional)* **Python 3.9+** and **uv** if running locally without Docker.
+- *(Optional)* **uv** if running locally without Docker.
 
 ## Running with Docker (Recommended)
 
@@ -59,7 +59,7 @@ Provides an overview of the application and instructions on how to navigate the 
 4. **Access the App:**
    Open your web browser and navigate to `http://localhost:8000`.
 
-## Running Locally with uv
+## (Optionally) Running Locally with uv
 
 If you prefer to run locally for development:
 
